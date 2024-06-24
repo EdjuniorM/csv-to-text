@@ -1,0 +1,6 @@
+Existem 5 pessoas maiores de 18 anos
+Anna tem mais 21 anos
+Guilherme tem mais 24 anos
+John tem mais 35 anos
+Luis tem mais 45 anos
+Maria tem mais 28 anos
